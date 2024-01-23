@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Destination Detective</string>
+    <string name="google_map_api_key">Your_API_Key</string>
+</resources>
